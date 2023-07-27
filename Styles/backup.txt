@@ -1,0 +1,217 @@
+.Indicacao_texto--bold {
+  color: #333;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%;
+}
+
+.Indicacao {
+  display: flex;
+  gap: 7px ;
+  flex-direction: column;
+}
+
+
+.definicao p {
+  color: #333;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+}
+
+.ponto {
+  margin-top: 10px;
+  display: flex;
+  width: 15px;
+  height: 3px;
+  background-color: #333;
+  border-radius: 100%;
+}
+
+.ponto1 {
+  margin-top: 10px;
+  display: flex;
+  width: 3px;
+  height: 3px;
+  background-color: #333;
+  border-radius: 100%;
+}
+
+.ponto2 {
+  margin-top: 10px;
+  display: flex;
+  width: 6px;
+  height: 3px;
+  background-color: #333;
+  border-radius: 100%;
+}
+
+.Indicacao_topico {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  margin-left: 28px;
+}
+
+.Indicacao_conteudo {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.subtopico {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  margin-left: 40px;
+}
+
+.Indicacao_container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+
+
+<div class="Indicacao">
+
+<h1 class="Indicacao_titulo">Indicação:</h1>
+
+<div class="Indicacao_conteudo">
+
+  <div class="Indicacao_topico">
+
+    <span class="ponto"></span>
+    <p>
+      <span class="Indicacao_texto--bold">Descompressão Digestiva (Jejunostomia Temporária):</span> cirurgias abdominais de grande porte, relacionadas a ressecção gástrica e com possível desenvolvimento de “íleo adinâmico ou paralítico”, assim como, de Fístulas Digestivas. O trauma abdominal e a administração de anestesia geral com opiáceos ou anestesia peridural aumentam as chances de interferirem no funcionamento ileal.
+    </p>
+
+  </div>
+
+  <div class="Indicacao_container">
+
+    <div class="Indicacao_topico">
+      <span class="ponto1"></span>
+      <h1 class="Indicacao_texto--bold">Alimentação</h1>
+    </div>
+
+    <div class="subtopico">
+      <span class="ponto2"></span>
+      <p>
+        Temporária: recuperação e manutenção da condição nutricional, enquanto o acesso ao trato digestivo está prejudicado e o trânsito alimentar se restabelece.
+      </p>
+    </div>
+
+    <div class="subtopico">
+      <span class="ponto2"></span>
+      <p>
+        Definitiva: terapia paliativa em pacientes com neoplasia maligna irressecável gástrica ou dificuldade para deglutir e apetite prejudicado por doenças neurológicas.
+      </p>
+    </div>
+
+  </div>
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+  Indicação:
+  Descompressão Digestiva (Jejunostomia Temporária): cirurgias abdominais de grande porte, relacionadas a ressecção gástrica e com possível desenvolvimento de “íleo adinâmico ou paralítico”, assim como, de Fístulas Digestivas. O trauma abdominal e a administração de anestesia geral com opiáceos ou anestesia peridural aumentam as chances de interferirem no funcionamento ileal.
+
+  Alimentação:
+  Temporária: recuperação e manutenção da condição nutricional, enquanto o acesso ao trato digestivo está prejudicado e o trânsito alimentar se restabelece.
+
+  Definitiva: terapia paliativa em pacientes com neoplasia maligna irressecável gástrica ou dificuldade para deglutir e apetite prejudicado por doenças neurológicas.
+  
+  Descompressão e alimentação: com a progressão do pós - operatório, em cirurgias digestivas de maior complexidade, a jejunostomia pode exercer as duas funções (exemplo: inicialmente, promover a descompressão e, após, administração de dieta).
+
+Contraindicações:
+Cirurgia gastrintestinal anterior, hepatomegalia e obesidade;
+Obstrução Intestinal;
+Ascite em grande volume/
+Inflamação/infecção peritoneal;
+Doença inflamatória no intestino;
+Pós tratamento com Radioterapia
+Imunodepressão grave.
+
+
+
+Complicações:
+As complicações são relacionadas aos riscos que o procedimento proporciona, pelo uso da anestesia ou lesões em órgãos próximos. Após a instalação da sonda, as complicações são correlacionadas ao deslocamento, a interrupção ou extravasamento do conteúdo, danos à pele, problemas digestivos e, até mesmo, infecção. Basicamente, as possíveis complicações são:
+Infecção da pele/estomia;
+Dor no local, hematoma ou edema local;
+Pneumoperitônio;
+Febre;
+Extravasamento de conteúdo gástrico/entérico para a pele;
+Obstrução, perda ou migração da sonda;
+Alargamento da estomia;
+Sangramento;
+Granuloma.
+
+
+Cuidados:
+
+Observar:
+
+Sinais de vermelhidão, secreção purulenta e dor local;
+Cm externo da sonda;
+Extravasamento da dieta pelo óstio;
+Quantidade correta da dieta
+Gastrostomia:  o espaço entre o dispositivo de estabilização externa e a pele está entre 3 e 5 mm;
+
+Manter:
+Óstio limpo e seco;
+Cabeceira elevada a 45 graus;
+Fixar a sonda com fita adesiva antialérgica sem tracionar.
+Limpar o óstio com soro fisiológico.
+Lavar a sonda antes, após e durante a dieta e/ou medicações, com 20 a 50 mL de água filtrada. 
+É importante lembrar que os cuidados podem ser modificados de acordo com os protocolos institucionais.
+
+
+
+
+
+Definição:
+É um procedimento cirúrgico, temporário ou definitivo, que exterioriza o intestino grosso através da parede abdominal anterior. Há a colostomia:
+Terminal: posicionada no cólon descendente, no lado esquerdo, geralmente no quadrante inferior;
+em Alça: posicionada no cólon transverso (quadrante superior direito ou esquerdo) e no sigmoide.
+
+
+Bolsa Coletora
+É utilizada para armazenar as fezes eliminadas pela estomia. 
+
+Em relação a quantidade de peças:
+Existem dois tipos principais de sistemas: a de uma peça, em que a placa adesiva protetora fica acoplada a bolsa, e a de duas peças, no qual a placa adesiva protetora de pele é separada da bolsa. 
+
+Em relação a drenagem:
+Há dois tipos: a bolsa coletora fechada e a bolsa coletora aberta. O primeiro tipo é relacionado ao uso único e dispensam a preocupação com clipes de fechamento (após o funcionamento do estoma, é necessário remover a placa adesiva protetora da pele, descartá-la e substituí-la por outra). Já o segundo tipo, possui um canal de drenagem que pode ser fechado através de um clip ou um sistema de fechamento acoplado. 
+
+
+Tipos de Placa Protetora da Pele
+As placas podem ser:
+Plana: utilizada em pacientes que a estomia não esteja em região de dobras ou pregas.
+Convexa: utilizadas em pacientes que apresentam retração.
+
+
+
+
+Trocar o dispositivo coletor a cada 5 dias ou antes, se necessário.
+Realizar a higiene da Estomia e da pele peristoma com água potável e sabonete neutro, lenço umedecido ou sob o chuveiro.
+Remover excesso de pelos da região peristoma para garantir aderência da bolsa.
+Mensurar a Estomia, garantindo o recorte adequado da base adesiva.
+Utilizar adjuvantes para proteção da pele peristoma.
+Esvaziar o equipamento coletor quando atingir um terço da capacidade.
+Esclarecer dúvidas sobre a alimentação.
+Em caso de alta, encaminhar o paciente para o serviço público de assistência especializada de referência da cidade ou endereços de pontos de venda de equipamentos.
